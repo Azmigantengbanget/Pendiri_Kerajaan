@@ -250,7 +250,6 @@
     { "en": "Kesultanan Yogyakarta Hadiningrat?", "id": "Pangeran Mangkubumi (Sultan Hamengkubuwono I)." },
     { "en": "Kerajaan Kanjuruhan?", "id": "Gajayana." },
     { "en": "Kerajaan Galuh?", "id": "Wretikandayun." },
-    { "en": "Kerajaan Pagaruyung?", "id": "Adityawarman." },
     { "en": "Kesultanan Siak Sri Indrapura?", "id": "Raja Kecil (Sultan Abdul Jalil Rahmat Syah)." },
     { "en": "Kerajaan Janggala?", "id": "Mapanji Garasakan." },
     { "en": "Kesultanan Pasir?", "id": "Putri Betung." },
@@ -265,9 +264,6 @@
     { "en": "Kerajaan Demak (setelah keruntuhan Majapahit)?", "id": "Raden Patah." },
     { "en": "Kerajaan Sunda?", "id": "Tarusbawa." },
     { "en": "Kerajaan Pagaruyung?", "id": "Adityawarman." },
-    { "en": "Kerajaan Kanjuruhan?", "id": "Gajayana." },
-    { "en": "Kesultanan Siak Sri Indrapura?", "id": "Raja Kecil (Sultan Abdul Jalil Rahmat Syah)." },
-    { "en": "Kerajaan Galuh?", "id": "Wretikandayun." },
     { "en": "Kerajaan Buleleng?", "id": "I Gusti Anglurah Panji Sakti." },
     { "en": "Kesultanan Asahan?", "id": "Sultan Abdul Jalil." },
     { "en": "Kerajaan Selaparang?", "id": "Prabu Rangkesari." },
@@ -275,8 +271,8 @@
     { "en": "Kesultanan Bulungan?", "id": "Asung Luwan." },
     { "en": "Kesultanan Langkat?", "id": "Dewa Syahdan." },
     { "en": "Kerajaan Tallo?", "id": "Karaeng Loe ri Sero." },
-    { "en": "Kerajaan Soppeng?", "id": "Latemmamala." },
     { "en": "Kerajaan Mempawah?", "id": "Pangeran Mas Surya Negara." }
+
 
 
         ];
